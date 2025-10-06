@@ -102,7 +102,9 @@ Policy Benefits: Supports government initiatives like Digital India and Smart Ag
 
 
 ## Research and References
-· <a href="World Bank - Digital Agriculture">World Bank - Digital Agriculture </a>
-. <a href="Indian Council of Agricultural Research (ICAR)">Indian Council of Agricultural Research (ICAR) </a>
-· <a href="Food and Agriculture Organization (FAO)">Food and Agriculture Organization (FAO) </a>
+<ol>
+· <a href="https://thedocs.worldbank.org/en/doc/1a163904ccb86646bf2e5d3d6f427f3d-0090012023/related/WB-DDAG-FA-web.pdf">World Bank - Digital Agriculture </a>
+. <a href="https://icar.org.in/">Indian Council of Agricultural Research (ICAR) </a>
+· <a href="https://www.fao.org/home/en">Food and Agriculture Organization (FAO) </a>
 · <a href="https://www.niti.gov.in/verticals/agriculture-technology">NITI Aayog - Technology in Agriculture </a>
+</ol>
